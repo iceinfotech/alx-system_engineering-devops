@@ -1,0 +1,3 @@
+#!/bin/bash
+user=$(whoiam)
+echo "hello $user!"
